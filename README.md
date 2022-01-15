@@ -1,1 +1,1 @@
-# django_project
+nucamp django app
